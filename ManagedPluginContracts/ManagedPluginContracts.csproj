@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="ManagedPluginContracts.cs" />
     <Compile Include="OllydbgApi.cs" />
+    <Compile Include="OllydbgMarshalHelper.cs" />
     <Compile Include="OllydbgMenuBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

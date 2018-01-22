@@ -23,6 +23,7 @@
 #include <vector>
 
 #pragma comment(lib, "MSCorEE.lib")
+#pragma comment(lib, "Ollydbg.lib")
 
 #import "C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.tlb" raw_interfaces_only \
     high_property_prefixes("_get","_put","_putref")		\
